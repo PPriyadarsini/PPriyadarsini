@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Preeti Priyadarsini
-- 👀 I’m interested in Web Development and UI/UX design
+- 👀 I’m interested in Web Development, Graphic Design and UI/UX design
 - 🌱 I’m currently learning Google Cloud Program
 - 📫 You can reach me on LinkedIn or on my instagram page @artbloxpp
 
