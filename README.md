@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preeti Priyadarsini</h1>
 <h2 align="center">Designer & Frontend Developer</h2>
 <h3 align="center">Web Development, Illustrations & UI/UX Design is what interests me ❤️</h3>
+<img align="right" src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ppriyadarsini&label=Profile%20views&color=0e75b6&style=flat" alt="ppriyadarsini" /> </p>
 
