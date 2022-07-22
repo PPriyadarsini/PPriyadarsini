@@ -1,5 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/42106958/180433426-84334b38-19eb-486d-9f88-1050f7aa3678.png)
-
 <h1 align="center">Hi 👋, I'm Preeti Priyadarsini</h1>
 <h2 align="center">Designer & Frontend Developer</h2>
 <h3 align="center">Web Development, Illustration & UI/UX Design is what interests me ❤️</h3>
