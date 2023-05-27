@@ -9,7 +9,7 @@
 
 - 📫 You can contact me at preetipritz132@gmail.com
 
-- 🧠 I’m learning Express
+- 🧠 I’m learning Python
 
 - 🤝 I'm open to collaborating on interesting projects
 
