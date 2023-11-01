@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preeti Priyadarsini</h1>
-<h2 align="center">Designer & Frontend Developer</h2>
+<h2 align="center">Aspiring Data Analyst</h2>
 <h3 align="center">Web Development, Illustration & UI/UX Design is what interests me ❤️</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
