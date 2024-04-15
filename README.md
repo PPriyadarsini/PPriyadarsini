@@ -5,7 +5,7 @@
 
 - 🌎 Currently based in **Delhi, India**
 
-- 📫 You can reach me via **preetpritz132@gmail.com**
+- 📫 You can reach me via **preetipritz132@gmail.com**
 
 <p align="left">
 </p>
