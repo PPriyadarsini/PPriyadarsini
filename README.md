@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preeti Priyadarsini</h1>
-<h3 align="center">Enthusiastic and detail-oriented recent graduate with a passion for data analysis.</h3>
+<h3 align="center">A Data Analyst.</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Tableau<br>🌍 Based in Delhi, India<br>📝 I write articles on Hashnode<br>📫 You can reach me via LinkedIn
